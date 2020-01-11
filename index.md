@@ -1,3 +1,4 @@
+```
 <!DOCTYPE html>
 <html>
   <head>
@@ -13,3 +14,5 @@
     <img class="logo" src="BuckleBerryBW.png" alt="BuckleBerry Logo">
   </body>
 </html>
+```
+![GitHub Logo](BuckleBerryBW.png)
