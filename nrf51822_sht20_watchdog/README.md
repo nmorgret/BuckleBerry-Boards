@@ -1,4 +1,4 @@
-# <img src="../../gh-pages/BuckleBerry.png" height="48"> BuckleBerry Boards
+# <img src="../../gh-pages/BuckleBerryBelt.png" height="48"> BuckleBerry Boards
 
 <img src="board-top.png" width="50%"><img src="board-bottom.png" width="50%">
 
