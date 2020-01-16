@@ -1,5 +1,7 @@
-﻿|ID|Name|Designator|Footprint|Quantity|Manufacturer Part|Manufacturer|Supplier|Supplier Part|LCSC Assembly|
- |---|---|----------|---------|--------|-----------------|------------|--------|-------------|-------------|
+<img src="../../gh-pages/BuckleBerry.png" height="48">
+
+|ID|Name|Designator|Footprint|Quantity|Manufacturer Part|Manufacturer|Supplier|Supplier Part|LCSC Assembly|
+|---|---|----------|---------|--------|-----------------|------------|--------|-------------|-------------|
 |1|4.7uF|C10|0603'|1|CL10A475KO8NNNC|SAMSUNG|LCSC|C19666|Yes|
 |2|12pF|C1,C2|0402'|2|0402CG120J500NT|FH|LCSC|C1547|Yes|
 |3|4.7nH|L1|0402'|1|SDCL1005C4N7STDF|Sunlord|LCSC|C13595|Yes|
