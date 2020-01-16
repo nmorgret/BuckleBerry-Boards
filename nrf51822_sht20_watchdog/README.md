@@ -1,4 +1,4 @@
-<img src="../../gh-pages/BuckleBerryBW.png" height="48">
+<img src="../../gh-pages/BuckleBerry.png" height="48">
 
 |ID|Name|Designator|Footprint|Quantity|Manufacturer Part|Manufacturer|Supplier|Supplier Part|LCSC Assembly|
 |---|---|----------|---------|--------|-----------------|------------|--------|-------------|-------------|
