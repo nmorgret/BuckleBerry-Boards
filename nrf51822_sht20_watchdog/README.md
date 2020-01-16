@@ -1,5 +1,7 @@
 # <img src="../../gh-pages/BuckleBerry.png" height="48"> BuckleBerry Boards
 
+<img src="board-top.png" width="50%"><img src="board-bottom.png" width="50%">
+
 |ID|Name|Designator|Footprint|Quantity|Manufacturer Part|Manufacturer|Supplier|Supplier Part|LCSC Assembly|
 |---|---|----------|---------|--------|-----------------|------------|--------|-------------|-------------|
 |1|4.7uF|C10|0603'|1|CL10A475KO8NNNC|SAMSUNG|LCSC|C19666|Yes|
